@@ -1,0 +1,30 @@
+<component name="libraryTable">
+  <library name="annotations-api">
+    <CLASSES>
+      <root url="jar://$USER_HOME$/Desktop/JAVALIB/annotations-api.jar!/" />
+      <root url="jar://$USER_HOME$/Desktop/JAVALIB/catalina-ant.jar!/" />
+      <root url="jar://$USER_HOME$/Desktop/JAVALIB/catalina-ha.jar!/" />
+      <root url="jar://$USER_HOME$/Desktop/JAVALIB/catalina-storeconfig.jar!/" />
+      <root url="jar://$USER_HOME$/Desktop/JAVALIB/catalina-tribes.jar!/" />
+      <root url="jar://$USER_HOME$/Desktop/JAVALIB/catalina.jar!/" />
+      <root url="jar://$USER_HOME$/Desktop/JAVALIB/ecj-4.7.3a.jar!/" />
+      <root url="jar://$USER_HOME$/Desktop/JAVALIB/el-api.jar!/" />
+      <root url="jar://$USER_HOME$/Desktop/JAVALIB/jasper-el.jar!/" />
+      <root url="jar://$USER_HOME$/Desktop/JAVALIB/jasper.jar!/" />
+      <root url="jar://$USER_HOME$/Desktop/JAVALIB/jaspic-api.jar!/" />
+      <root url="jar://$USER_HOME$/Desktop/JAVALIB/jsp-api.jar!/" />
+      <root url="jar://$USER_HOME$/Desktop/JAVALIB/servlet-api.jar!/" />
+      <root url="jar://$USER_HOME$/Desktop/JAVALIB/tomcat-api.jar!/" />
+      <root url="jar://$USER_HOME$/Desktop/JAVALIB/tomcat-coyote.jar!/" />
+      <root url="jar://$USER_HOME$/Desktop/JAVALIB/tomcat-dbcp.jar!/" />
+      <root url="jar://$USER_HOME$/Desktop/JAVALIB/tomcat-jdbc.jar!/" />
+      <root url="jar://$USER_HOME$/Desktop/JAVALIB/tomcat-jni.jar!/" />
+      <root url="jar://$USER_HOME$/Desktop/JAVALIB/tomcat-util-scan.jar!/" />
+      <root url="jar://$USER_HOME$/Desktop/JAVALIB/tomcat-util.jar!/" />
+      <root url="jar://$USER_HOME$/Desktop/JAVALIB/tomcat-websocket.jar!/" />
+      <root url="jar://$USER_HOME$/Desktop/JAVALIB/websocket-api.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
